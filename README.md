@@ -10,4 +10,5 @@ Project-Code ： 项目中所使用的代码
 # 训练权重
 如果需要的话，您可以通过下面的网站下载我们的权重：
 
-
+链接：https://pan.baidu.com/s/14xSl174LagNRzeDGsO0tJA?pwd=clcl 
+提取码：clcl 
